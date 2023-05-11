@@ -19,4 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+We are a new research group based at the School of Engineering and Materials Science a Queen Mary University of London.
+
 Our group uses 3D printing and fluidic technologies to 1) build new microbiome models for understanding host-microbial community relationship, 2) build synthetic tissues for controlling living tissues, and 3) build new engineered living materials. Our group is highly interdisciplinary and spans 3D printing, method development, materials science, microbiology/cell biology, ecology, and modelling.
